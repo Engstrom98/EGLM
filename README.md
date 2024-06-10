@@ -1,18 +1,38 @@
-# EGLM
-Enges Golf Launch Monitor
+# Golf Launch Monitor
 
-## Description
-This project aims to build a gold launch monitor using a microcontroller, a radar module and a screen to cisualize the data. the launch monitor will track the speed of the golfswing and the speed of the ball
+## Project Overview
 
-## Features 
-    - clubhead speed
-    - Ballspeed
-    - visualization of data
+This is a hobby project with educational purposes, which I will be working on over the summer. The primary goals of this project are to learn about radar technology and to expand my knowledge of embedded development.
 
-## Hardware Requirements 
-    - Microcontroller (arduino)
-    - Radar Module (TBD)
-    - screen of some sort(TBD)
+### Project Objective
 
-## Software Requirements 
-    - Arduino IDE
+The product of this project is a golf launch monitor capable of:
+- Recording the speed of the club head
+- Recording the speed of the ball
+- Displaying the recorded data to the user via a screen or other communication means
+
+## Hardware
+
+The hardware components used in this project include:
+- **Microcontroller**: Arduino Uno R4 WiFi
+- **Radar Module**: (To be decided)
+- **Display**: Screen or another device to show the data to the user
+
+## Development Tools
+
+I will be using PlatformIO as the development tool for this project.
+
+## Learning Goals
+
+Through this project, I aim to:
+- Gain a deeper understanding of radar technology
+- Enhance my skills in embedded development
+
+## Getting Started
+
+To get started with the project, follow these steps:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/EGLM.git
+   cd EGLM
